@@ -1,7 +1,9 @@
-# Group 25 STAT201 Project Repository
+# Cyber Security Salary Inference
+## Comparison of Cyber Security Professional Salaries During the COVID-19 Pandemic
+
+### Group 25 STAT201 Project Repository
 
 (From STAT201 FINAL REPORT)
-Comparison of Cyber Security Professional Salaries During the COVID-19 Pandemic
 Group 25:
 Antarip Kashyap, Joel Bonnie, Renata Lovette, Zhen Wang
 
