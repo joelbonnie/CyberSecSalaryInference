@@ -1,4 +1,4 @@
-# Cyber Security Salary Inference
+# CyberSec Salary Inference
 ## Comparison of Cyber Security Professional Salaries During the COVID-19 Pandemic
 
 ### Group 25 STAT201 Project Repository
